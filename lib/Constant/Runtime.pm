@@ -3,7 +3,7 @@ package Constant::Runtime;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.0099_01';
 
 our $AUTHORITY = 'cpan:BERLE';
 
